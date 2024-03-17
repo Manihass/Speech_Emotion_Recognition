@@ -14,6 +14,12 @@ The main objectives of this project are as follows:
 2. **Training the Model**: Train the LSTM model on the preprocessed data.
 3. **Testing the Model**: Measure the accuracy of the trained model on a separate validation set.
 
+## Dataset
+The TESS Toronto Emotional Speech Set dataset is used for training and evaluating the emotion recognition model. It contains a collection of short audio clips, each labeled with one of seven emotions: angry, disgusted, fearful, happy, neutral, sad, and surprised.
+
+You can download the TESS dataset from [this link]([insert_download_link_here](https://www.kaggle.com/datasets/ejlok1/toronto-emotional-speech-set-tess/download?datasetVersionNumber=1)).
+
+
 **Dependencies:**
 Ensure that you have the following dependencies installed:
 - pandas
