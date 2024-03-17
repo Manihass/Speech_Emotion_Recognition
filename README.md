@@ -17,7 +17,7 @@ The main objectives of this project are as follows:
 ## Dataset
 The TESS Toronto Emotional Speech Set dataset is used for training and evaluating the emotion recognition model. It contains a collection of short audio clips, each labeled with one of seven emotions: angry, disgusted, fearful, happy, neutral, sad, and surprised.
 
-You can download the TESS dataset from [this link]([https://www.kaggle.com/datasets/ejlok1/toronto-emotional-speech-set-tess/download?datasetVersionNumber=1]).
+You can download the TESS dataset from [this link](https://www.kaggle.com/datasets/ejlok1/toronto-emotional-speech-set-tess/download?datasetVersionNumber=1).
 
 
 **Dependencies:**
